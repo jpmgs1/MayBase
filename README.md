@@ -11,7 +11,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clone https://github.com/thothdeus/may
+> git clone https://github.com/thothdeus/MayBase
 ```
 
 ## Instale as dependências:
@@ -19,7 +19,7 @@ Antes de executar o comando abaixo, certifique-se de estar no diretório do proj
 você acabou de clonar!!
 
 ```bash
-> cd may
+> cd MayBase
 > bash install.sh
 ```
 
