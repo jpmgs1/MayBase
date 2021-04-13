@@ -1,7 +1,4 @@
 <p align="center">
-<img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif" width="128" height="128"/>
-</p>
-<p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
